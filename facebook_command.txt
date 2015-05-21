@@ -1,0 +1,13 @@
+keytool.exe -exportcert -alias androiddebugkey -keystore "C:\Users\dai.x.bui\.android\debug.keystore" | "C:\OpenSSL-Win32\bin\openssl" sha1 -binary | "C:\OpenSSL-Win32\bin\openssl" base64
+
+password: android
+4JwYLavyRFczp17zBJEi7A6qG2M=
+
+App ID
+659571774186590
+
+API Version
+v2.3
+
+App Secret
+0d5b98feecbd2ed3d5342c8faffacaac
